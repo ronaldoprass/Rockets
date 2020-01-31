@@ -4,7 +4,7 @@ public class Teste {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Teste Github");
+		System.out.println("Teste Github versão 1.0");
 		
 
 	}
